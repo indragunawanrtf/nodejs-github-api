@@ -1,3 +1,3 @@
 # NODE JS GITHUB API
 
-Example Application Get Github API
+Learn Simple App With Node JS Get Github API name, company, location, public repo and followers.
